@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ditobayu
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Javascript & Java
-- 💞️ I’m looking to collaborate on Web Developing
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 <!---
